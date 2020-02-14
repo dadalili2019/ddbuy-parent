@@ -1,0 +1,4 @@
+# Project exclude paths
+/ddbuy-common-interface/target/
+/ddbuy-entity/target/
+/ddbuy-mapper/target/
